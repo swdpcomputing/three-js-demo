@@ -45,7 +45,7 @@ Refresh the page to see a new set of randomised textures.
 
 ## Disabled features
 
-There is a in-built menu where you can change the texture and colour options of the 'Refresh' Text.
+There is an in-built menu where you can change the texture and colour options of the 'Refresh' Text.
 If you'd like to see a version with this feature, please let me know. You can see how it's 
 implemented in the codebase.
 
