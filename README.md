@@ -45,7 +45,7 @@ Refresh the page to see a new set of randomised textures.
 
 ## Disabled features
 
-There is an in-built menu where you can change the texture and colour options of the 'Refresh' Text.
+There is a in-built menu where you can change the texture and colour options of the 'Refresh' Text.
 If you'd like to see a version with this feature, please let me know. You can see how it's 
 implemented in the codebase.
 
@@ -57,7 +57,7 @@ implemented in the codebase.
 
 ## Coding notes.
 
-This app is a summation of learning from section 01 - Basics from the tutorial https://threejs-journey.com/
+This app is a summation of learning from Section 01 - Basics from the tutorial https://threejs-journey.com/
 by Bruno Simon. It uses simple concepts from Three.js - materials, geometries, meshes, lights, etc - with 
 more advanced Javascript / Typescript features. The MaterialTweak class, for example, has instances created 
 using the Factory Method Design Pattern. However, it is still somewhat in the format of a sandbox and could 
