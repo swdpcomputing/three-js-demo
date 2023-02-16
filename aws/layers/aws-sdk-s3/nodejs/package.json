@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-s3-layer",
+  "version": "0.0.1",
+  "description": "lambda layer for @aws-sdk/client-s3 ",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.204.0"
+  },
+  "config": {
+    "zip-id": "aws-sdk-s3-layer.zip"
+  },
+  "scripts": {
+    "zip": "zip -r9 aws-sdk-s3-layer.zip ../nodejs .",
+    "rename-zip": "mv aws-sdk-s3-layer.zip nodejs.zip",
+    "push": "aws lambda publish-layer-version --layer-name aws-sdk-s3-layer --description 'add aws-sdk-s3 library' --zip-file fileb://nodejs.zip --compatible-runtimes nodejs14.x nodejs16.x",
+    "deploy": "npm run zip && npm run rename-zip && npm run push"
+  },
+  "type": "module"
+}

@@ -1,0 +1,16 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: An AWS Serverless Specification template describing your function.
+
+Resources:
+  test:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      FunctionName: texture-demo-get-texture
+      Handler: index.handler
+      Runtime: nodejs16.x
+      CodeUri: ./
+      Description: 'Get texture from s3'
+      MemorySize: 128
+      Timeout: 3
+      # Role: 'arn:aws:iam::125573888313:role/service-role/test-role-5wa11jw0'

@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  threejs:
+    build: services/threejs
+    ports:
+      - 3000:3000
+    volumes:
+      - ./services/threejs/:/app
+
+  nginx-file-server:
+    build: services/nginx-file-server
+    ports:
+      - "3002:80"
+

@@ -1,0 +1,1 @@
+sam local invoke -e ./event.json texture-demo-get-texture-image-list-0.0.2

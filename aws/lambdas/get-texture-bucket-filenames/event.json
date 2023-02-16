@@ -1,0 +1,536 @@
+{
+  "$metadata": {
+    "httpStatusCode": 200,
+    "requestId": "2W5DXY680MMJPC49",
+    "extendedRequestId": "NCdbfbtcehSuGMFlSICpct+TKJvpvnKMPDyCLMxRhf9lvHIUN1kphTZgOSEzfI4hlJ0EqG/KSSgToQWdbHT2+Q==",
+    "attempts": 1,
+    "totalRetryDelay": 0
+  },
+  "Contents": [
+    {
+      "Key": "textures/_blank.png",
+      "LastModified": "2022-11-07T11:08:08.000Z",
+      "ETag": "\"0810e6ebbac7710ed9b4f5a3bd664eac\"",
+      "Size": 97571,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/checkerboard-1024x1024.png",
+      "LastModified": "2022-11-07T11:08:08.000Z",
+      "ETag": "\"3216da9d4872a69e54a8a691ceec0e73\"",
+      "Size": 745,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/checkerboard-8x8.png",
+      "LastModified": "2022-11-07T11:08:08.000Z",
+      "ETag": "\"3ec225e5ce2cad0bcbf11b5374289c70\"",
+      "Size": 119,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/alpha.jpg",
+      "LastModified": "2022-11-07T11:08:09.000Z",
+      "ETag": "\"688ef477673dc89adfdf5f294101148c\"",
+      "Size": 10936,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/ambientOcclusion.jpg",
+      "LastModified": "2022-11-07T11:08:09.000Z",
+      "ETag": "\"689dd855a793dcdd568bd2bbd0a46c05\"",
+      "Size": 73387,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/color.jpg",
+      "LastModified": "2022-11-07T11:08:10.000Z",
+      "ETag": "\"29039012219ca409597cda0a5a289558\"",
+      "Size": 781604,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/height.jpg",
+      "LastModified": "2022-11-07T11:08:10.000Z",
+      "ETag": "\"c379a4f4e53d7c02455edfc36bd2eb48\"",
+      "Size": 26330,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/metalness.jpg",
+      "LastModified": "2022-11-07T11:08:09.000Z",
+      "ETag": "\"94273c9197e47ccfdc83e803c6a8ddf2\"",
+      "Size": 15804,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/normal.jpg",
+      "LastModified": "2022-11-07T11:08:10.000Z",
+      "ETag": "\"ccdcd20bafa8b79e12e4e12095e8e26b\"",
+      "Size": 34192,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/door/roughness.jpg",
+      "LastModified": "2022-11-07T11:08:11.000Z",
+      "ETag": "\"f029658ce6f318af90cf0da6082df87b\"",
+      "Size": 125687,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/nx.jpg",
+      "LastModified": "2022-11-07T11:08:22.000Z",
+      "ETag": "\"2be14365267e4edc0448f56d26b432e2\"",
+      "Size": 195807,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/ny.jpg",
+      "LastModified": "2022-11-07T11:08:23.000Z",
+      "ETag": "\"964c8e21a247e3cb89a80f990aa9deda\"",
+      "Size": 215578,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/nz.jpg",
+      "LastModified": "2022-11-07T11:08:23.000Z",
+      "ETag": "\"ef64d30ba00115290436cf1ba8f02065\"",
+      "Size": 252692,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/px.jpg",
+      "LastModified": "2022-11-07T11:08:24.000Z",
+      "ETag": "\"53bb7ce76b1ff789741a81f6067cccf2\"",
+      "Size": 202089,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/py.jpg",
+      "LastModified": "2022-11-07T11:08:24.000Z",
+      "ETag": "\"f9527cae83f37e1f7d8a6a3df8d91410\"",
+      "Size": 206023,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/0/pz.jpg",
+      "LastModified": "2022-11-07T11:08:23.000Z",
+      "ETag": "\"eedca89115299f688f1213ae45fe17d8\"",
+      "Size": 243461,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/nx.jpg",
+      "LastModified": "2022-11-07T11:08:16.000Z",
+      "ETag": "\"1d6f0e1fbffea8b2c13b76546f83ef89\"",
+      "Size": 273830,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/ny.jpg",
+      "LastModified": "2022-11-07T11:08:19.000Z",
+      "ETag": "\"7eb984cf8ef32365c43e31a5dab3253e\"",
+      "Size": 700107,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/nz.jpg",
+      "LastModified": "2022-11-07T11:08:20.000Z",
+      "ETag": "\"c9c422612c22c4f5ff0499ffce80a985\"",
+      "Size": 372108,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/px.jpg",
+      "LastModified": "2022-11-07T11:08:21.000Z",
+      "ETag": "\"8828c2d33795094bc0a74545354f6020\"",
+      "Size": 332122,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/py.jpg",
+      "LastModified": "2022-11-07T11:08:22.000Z",
+      "ETag": "\"04b904a03f763cf920246e3c048c023b\"",
+      "Size": 27882,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/1/pz.jpg",
+      "LastModified": "2022-11-07T11:08:21.000Z",
+      "ETag": "\"b550668a125203478409815247dfdcc9\"",
+      "Size": 319429,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/nx.jpg",
+      "LastModified": "2022-11-07T11:08:11.000Z",
+      "ETag": "\"21990c14de00059127c2ad29b9ba0717\"",
+      "Size": 291344,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/ny.jpg",
+      "LastModified": "2022-11-07T11:08:12.000Z",
+      "ETag": "\"943dbe3690155191b5f33c61a97ddfa3\"",
+      "Size": 338803,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/nz.jpg",
+      "LastModified": "2022-11-07T11:08:12.000Z",
+      "ETag": "\"705533f393c9bccb854f43667e9a332b\"",
+      "Size": 374081,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/px.jpg",
+      "LastModified": "2022-11-07T11:08:13.000Z",
+      "ETag": "\"19cca05d2b5f1e2e6cbfce79d344a13d\"",
+      "Size": 334749,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/py.jpg",
+      "LastModified": "2022-11-07T11:08:14.000Z",
+      "ETag": "\"33c2271a801bd0e598f9d0cb4bb983ce\"",
+      "Size": 259215,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/2/pz.jpg",
+      "LastModified": "2022-11-07T11:08:13.000Z",
+      "ETag": "\"80b2bd8afbcac751a8574e887a9cfb93\"",
+      "Size": 306615,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/nx.jpg",
+      "LastModified": "2022-11-07T11:08:14.000Z",
+      "ETag": "\"68516246a87537753ea059f2bdda16ab\"",
+      "Size": 380181,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/ny.jpg",
+      "LastModified": "2022-11-07T11:08:14.000Z",
+      "ETag": "\"f7822b0f7a019082da88a79d1c5df0b3\"",
+      "Size": 359037,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/nz.jpg",
+      "LastModified": "2022-11-07T11:08:15.000Z",
+      "ETag": "\"12c711a99ef62b49ee2a4674fc5840c7\"",
+      "Size": 365799,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/px.jpg",
+      "LastModified": "2022-11-07T11:08:16.000Z",
+      "ETag": "\"61988ec1636573553d99caa68e92bd3e\"",
+      "Size": 318743,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/py.jpg",
+      "LastModified": "2022-11-07T11:08:16.000Z",
+      "ETag": "\"e8a89a0162915fb9ba225555d6e06c7a\"",
+      "Size": 415008,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/environmentMaps/3/pz.jpg",
+      "LastModified": "2022-11-07T11:08:15.000Z",
+      "ETag": "\"3393b1414f8a8a6305d69d1d311aee2a\"",
+      "Size": 417533,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/gradients/3.jpg",
+      "LastModified": "2022-11-07T11:08:11.000Z",
+      "ETag": "\"f8722875071fb3f56277c4a03f7f1223\"",
+      "Size": 11040,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/gradients/5.jpg",
+      "LastModified": "2022-11-07T11:08:11.000Z",
+      "ETag": "\"f90c9de67e4962140bdfa2f8697f8e14\"",
+      "Size": 11054,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/1.png",
+      "LastModified": "2022-11-07T11:08:26.000Z",
+      "ETag": "\"36d4bde11609d5685a378b0ab3b67b95\"",
+      "Size": 50846,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/2.png",
+      "LastModified": "2022-11-07T11:08:25.000Z",
+      "ETag": "\"e3ea6d130f39140e64111757c81576ab\"",
+      "Size": 54552,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/3.png",
+      "LastModified": "2022-11-07T11:08:26.000Z",
+      "ETag": "\"6a658dcf0bd8128fa8b640eb4e5b1594\"",
+      "Size": 48496,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/4.png",
+      "LastModified": "2022-11-07T11:08:24.000Z",
+      "ETag": "\"7903fc307c6b286571725207d0784b05\"",
+      "Size": 45822,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/5.png",
+      "LastModified": "2022-11-07T11:08:25.000Z",
+      "ETag": "\"853918a3493eb7f86f5bdc5e2cd13c66\"",
+      "Size": 71430,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/6.png",
+      "LastModified": "2022-11-07T11:08:25.000Z",
+      "ETag": "\"0a10d7e1e8cab84efce8807004e02f1b\"",
+      "Size": 36399,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/7.png",
+      "LastModified": "2022-11-07T11:08:25.000Z",
+      "ETag": "\"94aa1ea065b82d375f8a0fda360105d0\"",
+      "Size": 24288,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/matcaps/8.png",
+      "LastModified": "2022-11-07T11:08:24.000Z",
+      "ETag": "\"89cf4dcf9e56593c370708c19749313c\"",
+      "Size": 49388,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/minecraft.png",
+      "LastModified": "2022-11-07T11:08:07.000Z",
+      "ETag": "\"19a6d3ca14809d9755c15836a36d1728\"",
+      "Size": 421,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122AmbientOcclusion.jpg",
+      "LastModified": "2022-11-07T11:08:27.000Z",
+      "ETag": "\"0bb9ff54278e34b187d0a9880bfed868\"",
+      "Size": 343092,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122Color.jpg",
+      "LastModified": "2022-11-07T11:08:28.000Z",
+      "ETag": "\"817f50f4ebd424a9a00a652a3c4deece\"",
+      "Size": 773073,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122Displacement.jpg",
+      "LastModified": "2022-11-07T11:08:27.000Z",
+      "ETag": "\"23777c7bfd95c99e4ff0ea58d9fc3ede\"",
+      "Size": 256437,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122NormalDX.jpg",
+      "LastModified": "2022-11-07T11:08:29.000Z",
+      "ETag": "\"25429a86ff884172abfa2dbee618aaa7\"",
+      "Size": 816922,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122NormalGL.jpg",
+      "LastModified": "2022-11-07T11:08:27.000Z",
+      "ETag": "\"c93dc8a85317a79d9e844578825d2a53\"",
+      "Size": 816090,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122PREVIEW.jpg",
+      "LastModified": "2022-11-07T11:08:28.000Z",
+      "ETag": "\"09eb393f8abb776cf4fc64020b97d2af\"",
+      "Size": 431126,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    },
+    {
+      "Key": "textures/stones/PavingStones122Roughness.jpg",
+      "LastModified": "2022-11-07T11:08:29.000Z",
+      "ETag": "\"55285f9757ef76e8e2e8089ab1f5f493\"",
+      "Size": 363889,
+      "StorageClass": "STANDARD",
+      "Owner": {
+        "ID": "70f429567d47e4a9284dfede0fbda9dd4105d397183f6fad136ab0098221af5e"
+      }
+    }
+  ],
+  "IsTruncated": false,
+  "Marker": "",
+  "MaxKeys": 1000,
+  "Name": "testuihucfvierhvueuyiv",
+  "Prefix": ""
+}

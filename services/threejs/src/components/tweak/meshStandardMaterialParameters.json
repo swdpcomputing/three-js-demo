@@ -1,0 +1,46 @@
+{
+  "color": { "type": "color", "category": "none" },
+  "map": { "type": "map", "category": "none" },
+  "alphaMap": { "type": "map", "category": "none" },
+  "flatShading": { "type": "boolean", "category": "none" },
+  "fog": { "type": "boolean", "category": "none" },
+  "aoMap": { "type": "map", "category": "ao" },
+  "aoMapIntensity": { "type": "scale", "category": "ao" },
+  "bumpMap": { "type": "map", "category": "bump" },
+  "bumpScale": { "type": "scale", "category": "bump" },
+  "displacementMap": { "type": "map", "category": "displacement" },
+  "displacementScale": { "type": "scale", "category": "displacement" },
+  "displacementBias": { "type": "scale", "category": "displacement" },
+  "emissiveMap": { "type": "map", "category": "emissive" },
+  "emissive": { "type": "color", "category": "emissive" },
+  "emissiveIntensity": { "type": "scale", "category": "emissive" },
+  "envMap": { "type": "map", "category": "env" },
+  "envMapIntensity": { "type": "scale", "category": "env" },
+  "lightMap": { "type": "map", "category": "lightMap" },
+  "lightMapIntensity": { "type": "scale", "category": "lightMap" },
+  "metalnessMap": { "type": "map", "category": "metalness" },
+  "metalness": { "type": "scale", "category": "metalness" },
+  "normalMap": { "type": "map", "category": "normal" },
+  "normalMapType": {
+    "type": "dropdown",
+    "category": "normal",
+    "items": ["TangentSpaceNormalMap", "ObjectSpaceNormalMap"]
+  },
+  "normalScale": { "type": "vector2", "category": "normal" },
+  "transparent": { "type": "boolean", "category": "opacity" },
+  "opacity": { "type": "scale", "category": "opacity" },
+  "roughnessMap": { "type": "map", "category": "roughness" },
+  "roughness": { "type": "scale", "category": "roughness" },
+  "wireframe": { "type": "boolean", "category": "wireframe" },
+  "wireframeLinecap": {
+    "type": "dropdown",
+    "category": "wireframe",
+    "items": ["butt", "round", "square"]
+  },
+  "wireframeLinejoin": {
+    "type": "dropdown",
+    "category": "wireframe",
+    "items": ["round", "bevel", "miter"]
+  },
+  "wireframeLinewidth": { "type": "scale", "category": "wireframe", "max": 10 }
+}

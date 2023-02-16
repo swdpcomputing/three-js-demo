@@ -1,0 +1,18 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: 'AWS::Serverless-2016-10-31'
+Description: An AWS Serverless Specification template describing your function.
+
+Resources:
+  test:
+    Type: 'AWS::Serverless::Function'
+    Properties:
+      FunctionName: texture-demo-get-texture-image-list-0.0.2
+      Handler: index.handler
+      Runtime: nodejs16.x
+      CodeUri: ./
+      Description: 'Gets filenames of all files in bucket'
+      MemorySize: 128
+      Timeout: 3
+      Role: 'arn:aws:iam::125573888313:role/service-role/test-role-5wa11jw0'
+      Layers:
+        - 'arn:aws:lambda:eu-west-2:125573888313:layer:aws-sdk-s3-layer:8'
